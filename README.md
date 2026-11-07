@@ -15,7 +15,7 @@ This project is based on the NTSC-U (GGTE01) version of the game. If you are usi
 - Adds various QOL changes
 - Fixes various broken textures and retextures select items to reference later Chibi-Robo titles
 
-While using it will overwrite the texture changes I've done, this should work with the HD Texture Pack by Ewzzy! This can be downloaded at [https://forums.dolphin-emu.org/Thread-chibi-robo-hd-texture-pack?page=4].
+While using it will overwrite the texture changes I've done, this should work with the HD Texture Pack by Ewzzy! This can be downloaded at https://forums.dolphin-emu.org/Thread-chibi-robo-hd-texture-pack?page=4.
 
 ## Special Thanks
 - The original development team for making the original and incredible game
