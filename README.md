@@ -53,6 +53,7 @@ While using it will overwrite the texture changes I've done, this should work wi
 - Model Editing: Blender 4.5.7 LTS (this version is used for compatibility with the below add-on)
 	- GameCube Model Blender Addon: https://github.com/StarsMmd/Blender-Addon-Gamecube-Models
 - Wii Explorer: https://kuribo64.net/board/thread.php?pid=3245
+
 *Learning Coding*
 - Beej's Guide to C Programming (https://beej.us/guide/bgc/)
 - PowerPC Full Beginner's Assembly Tutorial (https://mariokartwii.com/ppc/)
@@ -64,8 +65,9 @@ While using it will overwrite the texture changes I've done, this should work wi
 - Decomp Toolkit (https://github.com/encounter/decomp-toolkit)
 - devkitPPC (https://wiibrew.org/wiki/DevkitPPC)
 - Gecko Code Documentation: https://github.com/AlexanderHarrison/HOW-TO-WRITE-GECKO-CODES
+
 *Misc.*
 - Custom Nintendo Splash Logo: https://www.textstudio.com/
 
-Generative AI Disclosure:
-GenAI was not used for vibecoding, generating assets, or for any creative decisions. However, during the process of this project, the work of some modders (upon whose work I built from) was found to be GenAI-assisted. 
+# Generative AI Disclosure
+GenAI was not used for vibecoding, generating assets, or for any creative decisions. However, during the process of this project, the work of some modders (upon whose work I built from) was found to be GenAI-assisted.
